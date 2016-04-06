@@ -1,2 +1,2 @@
 # QA-softuni
-Used for softuni projects
+Used for softuni projects with other people
